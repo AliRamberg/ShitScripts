@@ -1,0 +1,74 @@
+04-11-2019 14:10:37.744 - 27628:[   INFO]:[20]  Initializing end user client configuration tool for eTafnit usage
+04-11-2019 14:10:37.744 - 27628:[   INFO]:[20]  Updated as of May 2019
+04-11-2019 14:10:37.744 - 27628:[   INFO]:[20]  Current eTafnit client version installed: U.n.k.n.o.w.n. .v.e.r.s.i.o.n
+04-11-2019 14:10:37.744 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:37.744 - 27628:[  DEBUG]:[10]  >>>>>>>>>> UAC Status >>>>>>>>>>
+04-11-2019 14:10:37.744 - 27628:[   INFO]:[20]  UAC is disabled!
+04-11-2019 14:10:37.744 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:37.744 - 27628:[  DEBUG]:[10]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:37.744 - 27628:[  DEBUG]:[10]  >>>>>>>>>> Language and Regional Settings >>>>>>>>>>
+04-11-2019 14:10:37.744 - 27628:[  DEBUG]:[10]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:37.744 - 27628:[   INFO]:[20]  Locale format is configured correctly!
+04-11-2019 14:10:37.813 - 27628:[   INFO]:[20]  Location is configured correctly!
+04-11-2019 14:10:37.813 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:37.813 - 27628:[  DEBUG]:[10]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:37.813 - 27628:[  DEBUG]:[10]  >>>>>>>>>> .NET Framework Status and Installation >>>>>>>>>>
+04-11-2019 14:10:37.813 - 27628:[  DEBUG]:[10]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:37.813 - 27628:[   INFO]:[20]  Dot Net Framework version 3.5 is installed!
+04-11-2019 14:10:37.813 - 27628:[   INFO]:[20]  EnableIEHosting registry value is configured correctly!
+04-11-2019 14:10:37.813 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:37.813 - 27628:[  DEBUG]:[10]  >>>>>>>>>> Firewall Settings >>>>>>>>>>
+04-11-2019 14:10:38.229 - 27628:[WARNING]:[30]  Firewall state is up. May need to allow TCP 80
+04-11-2019 14:10:38.229 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:38.229 - 27628:[  DEBUG]:[10]  >>>>>>>>>> Check Lock Admin Privileges >>>>>>>>>>
+04-11-2019 14:10:38.245 - 27628:[   INFO]:[20]  yahlil is already part of Administrators group
+04-11-2019 14:10:38.245 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:38.245 - 27628:[  DEBUG]:[10]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:38.245 - 27628:[  DEBUG]:[10]  >>>>>>>>>> Internet Options >>>>>>>>>>
+04-11-2019 14:10:38.245 - 27628:[  DEBUG]:[10]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:38.245 - 27628:[   INFO]:[20]  Security_HKLM_only is not set
+04-11-2019 14:10:38.245 - 27628:[WARNING]:[30]  ActiveX controls: Download signed ActiveX controls is configured incorrectly!
+04-11-2019 14:10:38.245 - 27628:[WARNING]:[30]  	It's configured to 1 should be 0
+04-11-2019 14:10:38.245 - 27628:[WARNING]:[30]  ActiveX controls: Download unsigned ActiveX controls is configured incorrectly!
+04-11-2019 14:10:38.245 - 27628:[WARNING]:[30]  	It's configured to 3 should be 0
+04-11-2019 14:10:38.245 - 27628:[WARNING]:[30]  ActiveX controls: Initialize and script ActiveX controls not marked as safe for scripting is configured incorrectly!
+04-11-2019 14:10:38.245 - 27628:[WARNING]:[30]  	It's configured to 3 should be 0
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  Miscellaneous: Access data sources across domains is configured incorrectly!
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  	It's configured to 1 should be 0
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  Miscellaneous: Display mixed content is configured incorrectly!
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  	It's configured to 1 should be 0
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  Miscellaneous: Launching programs and files in an IFRAME is configured incorrectly!
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  	It's configured to 1 should be 0
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  User Authentication: Logon is configured incorrectly!
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  	It's configured to 131072 should be 0
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  Error Dlg Displayed On Every Error is configured incorrectly!
+04-11-2019 14:10:38.260 - 27628:[WARNING]:[30]  	It's configured to yes should be no
+04-11-2019 14:10:38.260 - 27628:[  ERROR]:[40]  Internet options are not configured correctly!
+04-11-2019 14:10:38.260 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:39.185 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:39.185 - 27628:[  DEBUG]:[10]  >>>>>>>>>> Zones >>>>>>>>>>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  No domain or IP address was checked
+04-11-2019 14:10:39.185 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:39.185 - 27628:[  DEBUG]:[10]  >>>>>>>>>> ActiveX >>>>>>>>>>
+04-11-2019 14:10:39.185 - 27628:[  ERROR]:[40]  eTafnitTreeview.inf is missing, ActiveX might fail to load
+04-11-2019 14:10:39.185 - 27628:[  ERROR]:[40]  Failed to locate all the required ActiveX files
+04-11-2019 14:10:39.185 - 27628:[  DEBUG]:[10]  
+04-11-2019 14:10:39.185 - 27628:[  DEBUG]:[10]  >>>>>>>>>> Miscellaneous >>>>>>>>>>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  Adobe Reader protected mode is disabled.
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  The MSCOMCTL.OCX file is found on the system.
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  
+________________________________________________________________________________________________________________________
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  THE CLIENT IS NOT READY FOR ETAFNIT
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 1) Internet Options: ActiveX controls: Download signed ActiveX controls                                        >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 2) Internet Options: ActiveX controls: Download unsigned ActiveX controls                                      >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 3) Internet Options: ActiveX controls: Initialize and script ActiveX controls not marked as safe for scripting >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 4) Internet Options: Miscellaneous: Access data sources across domains                                         >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 5) Internet Options: Miscellaneous: Display mixed content                                                      >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 6) Internet Options: Miscellaneous: Launching programs and files in an IFRAME                                  >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 7) Internet Options: User Authentication: Logon                                                                >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 8) Advanced Options: Error Dlg Displayed On Every Error                                                        >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >> 9) ActiveX Plug-In: Failed to load all plug-ins (check detailed log)                                           >>
+04-11-2019 14:10:39.185 - 27628:[   INFO]:[20]  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
